@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushmita2109/ReactBasicProject.git"
+  },
+  "author": "sushmita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushmita2109/ReactBasicProject/issues"
+  },
+  "homepage": "https://github.com/sushmita2109/ReactBasicProject#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
